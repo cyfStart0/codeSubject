@@ -8,4 +8,4 @@
       * [二维数组中的查找](/剑指offer/FindinArray.md/) 
       * [替换空格](/剑指offer/replaceSpace.md)
       * [从尾到头打印链表](/剑指offer/printListFromTailToHead.md)
-      * [重建二叉树]((/剑指offer/reConstructBinaryTree.md)
+      * [重建二叉树](/剑指offer/reConstructBinaryTree.md)
