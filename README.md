@@ -9,3 +9,5 @@
       * [替换空格](/剑指offer/replaceSpace.md)
       * [从尾到头打印链表](/剑指offer/printListFromTailToHead.md)
       * [重建二叉树](/剑指offer/reConstructBinaryTree.md)
+      * [用两个栈实现队列 ](/剑指offer/Queue.md)
+      * [旋转数组的最小数字](/剑指offer/minNumberInRotateArray.md) 
