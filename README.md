@@ -13,3 +13,5 @@
       * [旋转数组的最小数字](/剑指offer/minNumberInRotateArray.md) 
       * [斐波那契数列](/剑指offer/Fibonacci.md)
       * [跳台阶](/剑指offer/JumpFloor.md)
+      * [变态跳台阶](/剑指offer/JumpFloorII.md)
+      * [矩形覆盖](/剑指offer/RectCover.md)
