@@ -11,3 +11,5 @@
       * [重建二叉树](/剑指offer/reConstructBinaryTree.md)
       * [用两个栈实现队列 ](/剑指offer/Queue.md)
       * [旋转数组的最小数字](/剑指offer/minNumberInRotateArray.md) 
+      * [斐波那契数列](/剑指offer/Fibonacci.md)
+      * [跳台阶](/剑指offer/JumpFloor.md)
