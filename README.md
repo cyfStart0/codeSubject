@@ -15,3 +15,5 @@
       * [跳台阶](/剑指offer/JumpFloor.md)
       * [变态跳台阶](/剑指offer/JumpFloorII.md)
       * [矩形覆盖](/剑指offer/RectCover.md)
+      * [二进制中1的个数](/剑指offer/NumberOf1.md)
+      * [数值的整数次方](/剑指offer/Power.md)
