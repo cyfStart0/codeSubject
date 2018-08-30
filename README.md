@@ -17,3 +17,5 @@
       * [矩形覆盖](/剑指offer/RectCover.md)
       * [二进制中1的个数](/剑指offer/NumberOf1.md)
       * [数值的整数次方](/剑指offer/Power.md)
+      * [调整数组顺序使奇数位于偶数前面](/剑指offer/reOrderArray.md)
+      * [链表中倒数第k个结点](/剑指offer/FindKthToTail.md)
