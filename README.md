@@ -19,3 +19,5 @@
       * [数值的整数次方](/剑指offer/Power.md)
       * [调整数组顺序使奇数位于偶数前面](/剑指offer/reOrderArray.md)
       * [链表中倒数第k个结点](/剑指offer/FindKthToTail.md)
+      * [反转链表](/剑指offer/ReverseList.md)
+      * [合并两个排序的链表](/剑指offer/Merge.md)
