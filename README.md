@@ -21,3 +21,5 @@
       * [链表中倒数第k个结点](/剑指offer/FindKthToTail.md)
       * [反转链表](/剑指offer/ReverseList.md)
       * [合并两个排序的链表](/剑指offer/Merge.md)
+      * [树的子结构](/剑指offer/HasSubtree.md)
+      * [二叉树的镜像](/剑指offer/Mirror.md)
